@@ -70,11 +70,11 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-#.ipynb_checkpoints
-.ipynb_checkpoints/
-.DS_Store
-*.pyc
-extras/
+.ipynb_checkpoints
+#.ipynb_checkpoints/
+#.DS_Store
+#*.pyc
+#extras/
 
 # pyenv
 .python-version
